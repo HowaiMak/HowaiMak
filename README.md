@@ -12,7 +12,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 - 🌱 **Currently learning:** Deep Learning, SQL
 - 🤔 **Looking for help with:** Quantitative Arbitrage Trading
 - 💬 **Ask me about:** Python 🐍, C++ 🖥️, and anything related to Mathematical Modellings
-- 📫 **How to reach me:** [LinkedIn] [LinkedIn] : (https://www.linkedin.com/in/howaimak/a)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/howaimak)
 
 ### My Tech Stack 🛠️
 
