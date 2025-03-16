@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 - **Languages:** Python, C++
 - **Tools:** VS Code, Git, Docker
 
-### #30NitesOfCode:
+## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Sn0wyBun/30-nites-of-code)  
   ![@Sn0wyBun #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Sn0wyBun)
 
