@@ -1,6 +1,5 @@
 # Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sn0wy_bun?logo=twitter&style=for-the-badge)](https://twitter.com/sn0wy_bun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/howaimak)
 ![Profile Views](https://komarev.com/ghpvc/?username=howaimak&label=Profile%20views&color=0e75b6&style=flat)
 
