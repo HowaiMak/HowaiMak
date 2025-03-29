@@ -37,9 +37,6 @@ I'm a passionate developer specializing in algorithmic trading systems and quant
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=HowaiMak&show_icons=true&theme=radical&include_all_commits=true" />
-    </td>
-    <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HowaiMak&theme=radical" />
     </td>
   </tr>
