@@ -10,8 +10,8 @@ I'm a passionate developer specializing in algorithmic trading systems and quant
 - 🔭 **Current Project:** Building an Automated Trading System
 - 🌱 **Learning:** Deep Learning architectures & SQLite optimization
 - 🤝 **Seeking Collaboration:** High-frequency arbitrage strategies & regime-based factor allocation
-- 💬 **Ask Me About:** Python development, C++ optimization, or mathematical modeling challenges
-- ⚡ **Fun Fact:** I believe clean code and robust algorithms can solve most financial market puzzles
+- 💬 **Ask Me About:** Python, C++, or mathematical modeling challenges
+- ⚡ **Fun Fact:** I believe quantitative reasoning can solve most financial market puzzles
 
 ## 🛠️ Tech Stack
 
