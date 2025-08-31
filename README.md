@@ -5,13 +5,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer specializing in algorithmic trading systems and quantitative finance. Constantly exploring the intersection of technology and financial markets through:
+A Morden day coal miner, but I dig for alpha in the corporate data mines and get paid in basis points.
 
 - 🔭 **Current Project:** Building an Automated Trading System
-- 🌱 **Learning:** Deep Learning architectures & SQLite optimization
-- 🤝 **Seeking Collaboration:** High-frequency arbitrage strategies & regime-based factor allocation
-- 💬 **Ask Me About:** Python, C++, or mathematical modeling challenges
-- ⚡ **Fun Fact:** I believe quantitative reasoning can solve most financial market puzzles
+- 🌱 **Learning:** Machine Learning Models, Deep Learning application on buyside
+- 🤝 **Seeking Collaboration:** Alpha Factor Index-enhancing Strategy, Statistical Arbitrage Strategy
+- 💬 **Ask Me About:** Python, C++, SQL, Linux or Mathematical Modeling
 
 ## 🛠️ Tech Stack
 
