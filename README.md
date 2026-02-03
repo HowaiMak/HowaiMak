@@ -26,21 +26,4 @@ A Morden day coal miner, but I dig for alpha in the corporate data mines and get
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Analytics
-
-<tr>
-  <td>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HowaiMak&theme=radical" />
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowaiMak&layout=compact&theme=radical&langs_count=8" />
-  </td>
-</tr>
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=howaimak&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ⭐️ From [HowaiMak](https://github.com/HowaiMak)
