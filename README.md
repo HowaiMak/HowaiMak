@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-A Morden day coal miner, but I dig for alpha in the corporate data mines and get paid in basis points.
+A quantitative researcher and data scientist with expertise in the end-to-end development of machine learning-driven trading strategies. Proficient in deriving predictive signals and building statistical models in Python, C++, and R. Proven track record in alpha research, data processing, model tuning, and implementation for both cross-sectional and time-series approach. Let's connect to discuss opportunities in quantitative finance.
 
 - 🔭 **Current Project:** Building an Automated Trading System
 - 🌱 **Learning:** Machine Learning Models, Deep Learning application on buyside
